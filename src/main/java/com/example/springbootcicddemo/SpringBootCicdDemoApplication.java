@@ -11,7 +11,7 @@ public class SpringBootCicdDemoApplication {
 
     @RequestMapping("/welcome")
     public String welcome(){
-        return "Welcome to SpringBootCICD Demo Application!!!!!";
+        return "Welcome to SpringBootCICD Demo Application!!!!!!!!";
     }
 
     public static void main(String[] args) {
